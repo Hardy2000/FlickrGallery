@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Flickr Gallery</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="app_intro_message">\n1. Click Home menu on the left navigation panel to see the flickr\'s recent photos. \n\n2. Click Reload menu to reload the application.\n\n3. Click Exit menu to exit the app.</string>
+    <string name="important">IMPORTANT</string>
+    <string name="title">TITLE</string>
+    <string name="left_navigation_panel">Left Navigation Panel</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>
