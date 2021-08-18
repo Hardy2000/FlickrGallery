@@ -32,8 +32,8 @@ public class HomeFragment extends Fragment {
 private View PhotoView;
 private RecyclerView recyclerView;
 SwipeRefreshLayout swipeRefreshLayout;
-//    final String apikey = "6f102c62f41998d151e5a1b48713cf13";
-final String apikey=BuildConfig.Api_Key;
+
+final String apikey=BuildConfig.Api_Key;    //Api key is hidden in gradle
     List<Photo> photo = new ArrayList<>();
     ProgressDialog dialog;
 
